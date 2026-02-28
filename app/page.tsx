@@ -333,7 +333,7 @@ export default function CareerPage() {
             <span>이메일: info@haehan-ai.kr</span>
           </div>
           <p className="text-xs" style={{ color: `${MUTED}50` }}>
-            © 2025 해한AI엔지니어링. All rights reserved.
+            © 2026 해한AI엔지니어링. All rights reserved.
           </p>
         </div>
       </footer>
